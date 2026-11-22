@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reselect/static/css/main.0c4f6a9b.css",
+    "main.js": "/reselect/static/js/main.f3678b3c.js",
+    "home-view.css": "/reselect/static/css/home-view.d5fbfe6a.chunk.css",
+    "home-view.js": "/reselect/static/js/home-view.08576e09.chunk.js",
+    "authors-view.css": "/reselect/static/css/authors-view.d5fbfe6a.chunk.css",
+    "authors-view.js": "/reselect/static/js/authors-view.9e5e8abe.chunk.js",
+    "books-view.css": "/reselect/static/css/books-view.d5fbfe6a.chunk.css",
+    "books-view.js": "/reselect/static/js/books-view.ba64a90a.chunk.js",
+    "book-view.css": "/reselect/static/css/book-view.d5fbfe6a.chunk.css",
+    "book-view.js": "/reselect/static/js/book-view.1cdcd502.chunk.js",
+    "404-view.js": "/reselect/static/js/404-view.e7afd9b6.chunk.js",
+    "authors-subview.js": "/reselect/static/js/authors-subview.8ef1c7ac.chunk.js",
+    "index.html": "/reselect/index.html",
+    "main.0c4f6a9b.css.map": "/reselect/static/css/main.0c4f6a9b.css.map",
+    "main.f3678b3c.js.map": "/reselect/static/js/main.f3678b3c.js.map",
+    "home-view.d5fbfe6a.chunk.css.map": "/reselect/static/css/home-view.d5fbfe6a.chunk.css.map",
+    "home-view.08576e09.chunk.js.map": "/reselect/static/js/home-view.08576e09.chunk.js.map",
+    "authors-view.d5fbfe6a.chunk.css.map": "/reselect/static/css/authors-view.d5fbfe6a.chunk.css.map",
+    "authors-view.9e5e8abe.chunk.js.map": "/reselect/static/js/authors-view.9e5e8abe.chunk.js.map",
+    "books-view.d5fbfe6a.chunk.css.map": "/reselect/static/css/books-view.d5fbfe6a.chunk.css.map",
+    "books-view.ba64a90a.chunk.js.map": "/reselect/static/js/books-view.ba64a90a.chunk.js.map",
+    "book-view.d5fbfe6a.chunk.css.map": "/reselect/static/css/book-view.d5fbfe6a.chunk.css.map",
+    "book-view.1cdcd502.chunk.js.map": "/reselect/static/js/book-view.1cdcd502.chunk.js.map",
+    "404-view.e7afd9b6.chunk.js.map": "/reselect/static/js/404-view.e7afd9b6.chunk.js.map",
+    "authors-subview.8ef1c7ac.chunk.js.map": "/reselect/static/js/authors-subview.8ef1c7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4f6a9b.css",
+    "static/js/main.f3678b3c.js"
+  ]
+}

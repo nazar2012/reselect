@@ -1,0 +1,2 @@
+"use strict";(Array.isArray(globalThis.webpackChunkreselect)?globalThis.webpackChunkreselect:globalThis.webpackChunkreselect=[]).push([[725],{711(e,r,l){l.r(r),l.d(r,{default:()=>a});var s=l(579);function a(){return(0,s.jsx)("h1",{children:"404 \u0421\u0442\u043e\u0440\u0456\u043d\u043a\u0430 \u043d\u0435 \u0437\u043d\u0430\u0439\u0434\u0435\u043d\u0430 :("})}}}]);
+//# sourceMappingURL=404-view.e7afd9b6.chunk.js.map
